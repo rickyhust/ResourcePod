@@ -1,0 +1,6 @@
+framework module ResourcePodLibrary {
+  umbrella header "ResourcePodLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

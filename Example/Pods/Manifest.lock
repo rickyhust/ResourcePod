@@ -1,0 +1,16 @@
+PODS:
+  - ResourcePodLibrary (0.1.0)
+
+DEPENDENCIES:
+  - ResourcePodLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  ResourcePodLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ResourcePodLibrary: ae362e2c1a5dd1c6a30b9ca55f9ba57bcec13413
+
+PODFILE CHECKSUM: 8dc44cbbafc5341c9df2a1c35ed8ce9dffef719d
+
+COCOAPODS: 1.0.1
